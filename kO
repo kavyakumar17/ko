@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Kavya Kumar</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="hacker.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="top-container">
+    <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+    <h1>I'm Kavya Kumar.</h1>
+    <h2>A <span class="pro">pro</span>grammer.</h2>
+    <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+    <img class="mountain" src="images/mountain.png" alt="mountain-img">
+  </div>
+
+  <div class="middle-container">
+    <div class="profile">
+      <img class="profile-mo" src="images/profile.png" alt="filename-img">
+      <h2>Hello.</h2>
+      <p>I am an Web Developer and Forex Trader.I ❤ coffee And Karate </p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="web-moo" src="images/web.png" alt="web-img">
+        <h3>Development</h3>
+        <p> I started to learning to code when I was 13 years old because I wanted to make my own Personal web site. </p>
+      </div>
+      <div class="skill-row">
+        <img class="martial-arts" src="images/martial.png" alt="martial-img">
+        <h3>Martial Arts</h3>
+        <p>But my Best skill is actually in Martial Arts.I am the undisputed king of Mixed Martial Arts.Karate And Wing chun are my favourite Martial Arts.
+        </p>
+      </div>
+    <div class="skill-row">
+      <img class="forex-mo" src="images/forex.png" alt="forex-img">
+       <h3>Forex Trader</h3>
+       <p>I started to learning Forex Trader when I was 14 Years old because I wanted to make Billions.$ </p>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>If you love Martial Arts as much as I do.</h3>
+      <p class="contact-message">Love Martial Arts as much as I do?Let's talk about how awesome they are!</p>
+      <a class="btn" href="kavyakumarash@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.instagram.com/kingkavya_17/">Instagram</a>
+    <a class="footer-link" href="https://twitter.com/kavyakumarash">Twitter</a>
+    <a class="footer-link" href=""></a>
+    <p class="copyright">© 2022 KAVYA KUMAR.</p>
+  </div>
+
+
+</body>
+
+</html>
